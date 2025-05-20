@@ -1,4 +1,4 @@
-EXP.NO.7-Simulation-of-Digital-Modulation-Techniques
+# EXP.NO.7-Simulation-of-Digital-Modulation-Techniques
 # AIM:
 To simulate digital modulation techniques such as:
 
